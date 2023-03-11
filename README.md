@@ -96,6 +96,11 @@
     cd job-insights
   ```
 
+* Crie o ambiente virtual
+  ```sh
+    python3 -m venv .venv && source .venv/bin/activate
+  ```
+
 * Rode os testes
   ```sh
     python3 -m pytest
