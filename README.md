@@ -89,6 +89,16 @@
 
 ## Executando Testes
 
-* Testes removidos pelo fato de terem sido criados pela [Trybe](https://www.betrybe.com/)
+* Os testes que eu desenvolvi foram 'tests/brazilian/test_brazilian_jobs.py', 'tests/counter/test_counter.py' e 'tests/sorting/test_sorting.py'. Os demais foram desenvolvidos pela [Trybe](https://www.betrybe.com/)
+
+* Entre na pasta do repositório que você clonou:
+  ```sh
+    cd job-insights
+  ```
+
+* Rode os testes
+  ```sh
+    python3 -m pytest
+  ```
 
 ---
